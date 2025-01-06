@@ -1,0 +1,44 @@
+.fifth{
+    background-image: url('../images/sea.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#first{
+    background-color: aquamarine;
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+}
+.first{
+    background-color: blueviolet;
+    color: black;
+    border: 8px solid green;
+    border-radius: 25px;
+    box-shadow: 8px 8px 8px 8px black;
+    margin: 20px;
+    padding: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.second{
+    width: 300px;
+    height: auto;
+    border: 5px solid black;
+    display: inline;
+    margin: 20px;
+    border-radius: 20px;
+    display: inline-block;
+    /* position: relative; */
+}
+.third{
+    display: inline;
+    color: cadetblue;
+    background-color: bisque;
+    display: none;
+}
+.fourth{
+    text-decoration: underline;
+    text-align: center;
+}
+.sixth{
+    visibility: hidden;
+}
